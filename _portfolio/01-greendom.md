@@ -43,4 +43,4 @@ Assets are either freely available, bought from itch.io and Unity asset store or
 {% include gallery %}
 
 ## Greendom links
-[Greendom Windows build]({{ site.url }}/assets/download/greendom_demo_desktop_0.3.3.zip)
+[Greendom Windows build]({{ site.url }}/assets/download/greendom_demo_desktop_0.3.6.zip)
