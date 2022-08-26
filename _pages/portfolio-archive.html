@@ -1,0 +1,20 @@
+---
+layout: portfolio
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: true
+---
+
+<div class="grid__wrapper">
+  {% assign sorted_p = site.portfolio | sort:'path' %}  
+  
+  {% for post in sorted_p %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+	
+  {% assign sorted_p = site.misc_work | sort:'path' %}  
+  
+  {% for post in sorted_p %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
