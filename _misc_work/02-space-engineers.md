@@ -25,7 +25,7 @@ gallery:
     alt: "Space Engineers screenshot 6"
 ---
 
-As an employee of [Keen Software House](https://www.keenswh.com/) I'm currently working on Space Engineers, Keen's voxel-based space sandbox game. Although Space Engineers' alpha was released on Steam in 2013 it is still actively maintained and new content is getting released regularly. Space Engineers has sold millions of copies and it has a very active multiplayer and modding community.
+As an employee of [Keen Software House](https://www.keenswh.com/) I was a developer of Space Engineers, Keen's voxel-based space sandbox game. Although Space Engineers' alpha was released on Steam in 2013 it is still actively maintained and new content is getting released regularly. Space Engineers has sold millions of copies and it has a very active multiplayer and modding community.
 This game focuses on a more realistic approach in sandbox gameplay and encourages creating solutions to complex engineering problems.
 
 *Engine: VRAGE (in-house) -- Platform: Xbox One, Microsoft Windows*
