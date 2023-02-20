@@ -25,7 +25,7 @@ gallery:
     alt: "RimWorld screenshot 6"
 ---
 
-At [Ludeon Studeos](https://ludeon.com/) I'm working on Ludeon's hit indie game RimWorld which is a sci-fi  construction and management sim but first and foremost a story generator. Inspired by Dwarf Fortress, Firefly, and Dune, in RimWorld's distant future you must control a group of colonists surviving a spaceship crash on a distant planet.
+At [Ludeon Studeos](https://ludeon.com/) I'm working on Ludeon's hit indie game RimWorld which is a sci-fi  construction and management sim but it's ultimately an AI-driven story generator. Inspired by Dwarf Fortress, Firefly, and Dune, in RimWorld's distant future you must control a group of colonists surviving a spaceship crash on a distant planet.
 
 The planet, events and all entities of the game are procedurally generated so each playthrough tells a completely different story starring different people. RimWorld is one of the highest-rated Steam games and it has sold more than a million copies worldwide. It has three DLCs so far: Royalty, Ideology and Biotech, each one adding new elements to the gameplay. More content is actively in development.
 

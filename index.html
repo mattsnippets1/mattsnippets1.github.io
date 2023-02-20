@@ -5,6 +5,7 @@ author_profile: true
 
 {% include base_path %}
 
+<h2 style="display: inline-block; width: 100%; margin: 0 0 0.5em;">Commercial projects</h2>
 <div class="grid__wrapper">
 	
   {% assign sorted_p = site.misc_work | sort:'path' %}  
@@ -13,7 +14,7 @@ author_profile: true
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
-<h2 style="display: inline-block; width: 100%; margin: 0 0 0.5em;">My own games/demos</h2>
+<h2 style="display: inline-block; width: 100%; margin: 0 0 0.5em;">Personal projects</h2>
 <div class="grid__wrapper">
 
   {% assign sorted_p = site.portfolio | sort:'path' %}  
