@@ -42,5 +42,5 @@ Green Again's demo is currently available on Steam.
 
 ## Green Again links
 [Green Again on Steam](https://store.steampowered.com/app/2718320/Green_Again/)   
-[Green Again presskit](https://greenagaingame.com/greenagain/index.html)
+[Green Again presskit](https://slugdisco.com/press/sheet.php?p=green_again)
 
