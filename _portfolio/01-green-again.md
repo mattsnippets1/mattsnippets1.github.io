@@ -25,7 +25,7 @@ gallery:
     alt: "Green Again screenshot 6"
 ---
 
-Green Again is a chill and cozy city builder game. Help a tribe of little plant people reclaim their planet taken over by defective robots. Build, decorate, and expand your settlement. Grow crops for your citizens, explore the unknown, and return the land to its former green state!
+Green Again is a relaxing colony builder game. Help a tribe of little plant people reclaim their planet taken over by defective robots. Build, decorate, and expand your settlement. Grow crops for your citizens, explore the unknown, and return the land to its former green state!
 Green Again's demo is currently available on Steam.
 
 *Engine: Unity -- Platform: Windows*
