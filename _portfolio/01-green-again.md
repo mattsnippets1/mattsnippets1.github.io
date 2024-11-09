@@ -1,7 +1,7 @@
 ---
 title: "Green Again"
 date:   2023-12-10 10:00:00 +0200
-excerpt: "A chill and cozy colony builder game featuring little plant people."
+excerpt: "A relaxing colony builder game featuring little plant people and robots."
 header:
   teaser: /assets/images/green-again/green-again-teaser.jpg
 gallery:
@@ -30,7 +30,7 @@ Green Again's demo is currently available on Steam.
 
 *Engine: Unity -- Platform: Windows*
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DrE_RQFZwUc?si=jy402b-hAGfxsc9d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/j92VcW6zfF4?si=DI3LcnfLQFmOu6K2" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Feature highlight:
 - Procedurally generated 2D worlds built from hex tiles
